@@ -9,14 +9,14 @@
  <img align="center"  height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
  <img align="center"  height="30" width="30" hspace="5" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg">
 </h2>
-
-<h3 align="center">Olá! Meu nome é Alexandro. Sou desenvolvedor Front-end com especialidade em HTML, CSS e JavaScript. Ajudo pequenos negócios e outros desenvolvedores a colocarem em prática boas idéias.</h3>
-
+<br>
+<h3 align="center">Olá! Meu nome é Alexandro. Sou estudante de desenvolvimento web com conhecimento em HTML, CSS e JavaScript. Atualmente estou estudando programação com foco em back-end pela plataforma online Alura, buscando novos desafios e mais conhecimento na área de programação.</h3>
+<br><br>
 <div align="center">
  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=alexandrolsf&show_icons=true&theme=highcontrast" />
  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrolsf&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
-
+<br><br>
 <div align="center" style="display: inline_block"><br>
   <img align="center"  height="50" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="50" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,7 +28,7 @@
 </div>
 
 ##
-
+<br><br>
 <div align="center"> 
   <a href="https://instagram.com/alexandrolsf_" target="_blank"><img height="50" width="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/alexandro-lopes-192ba8219" target="_blank"><img height="50" width="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" target="_blank"></a>
