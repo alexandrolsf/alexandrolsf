@@ -1,9 +1,11 @@
 <h2 align="center"> 
+ <img align="center"  height="30" width="30" hspace="5" src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg">
  <img align="center"  height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
  <img align="center"  height="30" width="30" hspace="5" src="https://cdn.worldvectorlogo.com/logos/code-school.svg">
  Olá, como vai? Sou Alexandro, desenvolvedor Front-end 
  <img align="center"  height="30" width="30" hspace="5" src="https://cdn.worldvectorlogo.com/logos/code-school.svg">
  <img align="center"  height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+ <img align="center"  height="30" width="30" hspace="5" src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg">
 </h2>
 
 <div align="center">
