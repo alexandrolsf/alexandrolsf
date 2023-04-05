@@ -10,7 +10,7 @@
  <img align="center"  height="30" width="30" hspace="5" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg">
 </h2>
 <br>
-<h3 align="center">Olá! Meu nome é Alexandro. Sou estudante de desenvolvimento web com conhecimento em HTML, CSS e JavaScript. Atualmente estou estudando programação com foco em back-end pela plataforma online Alura, buscando novos desafios e mais conhecimento na área de programação.</h3>
+<h3 align="center">Olá!<br><br>Meu nome é Alexandro. Sou estudante de desenvolvimento web com conhecimento em HTML, CSS e JavaScript. Atualmente estou estudando programação com foco em back-end pela plataforma online Alura, buscando novos desafios e mais conhecimento na área de programação.</h3>
 <br><br>
 <div align="center">
  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=alexandrolsf&show_icons=true&theme=highcontrast" />
