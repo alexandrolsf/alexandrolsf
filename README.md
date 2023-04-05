@@ -1,7 +1,9 @@
 ## Olá, como vai? Sou Alexandro, desenvolvedor Front-end 
+<div style="display: inline_block">
+ <h3> Amante de tecnologia, programação e Física. Busca novos desafios e <br> expandir o conhecimento na área de programação cada vez mais. ⚛️📚💻🚀 </h3>
+</div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrolsf&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrolsf&show_icons=true&theme=highcontrast) 
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
