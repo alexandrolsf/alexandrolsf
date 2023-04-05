@@ -2,11 +2,13 @@
  <img align="center"  height="30" width="30" hspace="5" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg">
  <img align="center"  height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
  <img align="center"  height="30" width="30" hspace="5" src="https://cdn.worldvectorlogo.com/logos/code-school.svg">
- Olá, como vai? Sou Alexandro, desenvolvedor Front-end 
+ Bem-vindo ao meu GitHub!
  <img align="center"  height="30" width="30" hspace="5" src="https://cdn.worldvectorlogo.com/logos/code-school.svg">
  <img align="center"  height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
  <img align="center"  height="30" width="30" hspace="5" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg">
 </h2>
+
+<h3 align="center">Olá! Meu nome é Alexandro. Sou desenvolvedor Front-end com especialidade em HTML, CSS e JavaScript. Ajudo pequenos negócios e outros desenvolvedores a colocarem em prática boas idéias.</h3>
 
 <div align="center">
  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=alexandrolsf&show_icons=true&theme=highcontrast" />
