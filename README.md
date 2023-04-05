@@ -1,5 +1,6 @@
 <h2 align="center"> 
- Olá, como vai? Sou Alexandro, desenvolvedor Front-end
+ Olá, como vai? Sou Alexandro, desenvolvedor Front-end 
+ <img align="center"  height="25" width="25"  src="https://cdn.worldvectorlogo.com/logos/code-school.svg">
 </h2>
 
 <div align="center">
