@@ -1,7 +1,4 @@
 ## Olá, como vai? Sou Alexandro, desenvolvedor Front-end 
-<div style="display: inline_block">
- <h3> Amante de tecnologia, programação e Física. Busca novos desafios e expandir o conhecimento na área de programação cada vez mais. ⚛️📚💻🚀 </h3>
-</div>
 
 <div>
  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=alexandrolsf&show_icons=true&theme=highcontrast" />
