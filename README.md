@@ -1,5 +1,5 @@
 <h2 align="center"> 
- Olá, como vai? Sou Alexandro, desenvolvedor Front-end 
+ Olá, como vai? Sou Alexandro, desenvolvedor Front-end
 </h2>
 
 <div align="center">
