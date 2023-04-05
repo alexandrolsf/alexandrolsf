@@ -1,6 +1,6 @@
 ## Olá, como vai? Sou Alexandro, desenvolvedor Front-end 
 <div style="display: inline_block">
- <h3> Amante de tecnologia, programação e Física. Busca novos desafios e <br> expandir o conhecimento na área de programação cada vez mais. ⚛️📚💻🚀 </h3>
+ <h3> Amante de tecnologia, programação e Física. Busca novos desafios e expandir o conhecimento na área de programação cada vez mais. ⚛️📚💻🚀 </h3>
 </div>
 
 <div>
