@@ -11,6 +11,10 @@
 <h3 align="center">Olá!<br><br>Meu nome é Alexandro. Sou estudante de desenvolvimento web com conhecimento em HTML, CSS e JavaScript. Atualmente estou estudando programação com foco em back-end pela plataforma de cursos online Alura, buscando novos desafios e mais conhecimento na área de programação.
 </h3>
 
+<div align="center">
+<img height="300vh" src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47521mgfjtwkm1ggvdk75kucfy32aca1ybc1u6lndr&rid=giphy.gif&ct=g" />
+</div>
+
 <br>
 
 <div align="center">
