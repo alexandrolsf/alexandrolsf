@@ -45,10 +45,11 @@
 <br>
 
 <div align="center">
- <img align="center" height="500em" src="https://www.pngrepo.com/png/331724/512/github-code-source.png"/>
+ <img align="center" height="300em" src="https://www.pngrepo.com/png/331724/512/github-code-source.png"/>
 </div>
 
 <br><br>
+
 <div align="center">
   <a href="https://instagram.com/alexandrolsf_" target="_blank"><img height="50" width="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexandro-lopes-192ba8219" target="_blank"><img height="50" width="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" target="_blank"></a>
