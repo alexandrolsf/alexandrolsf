@@ -45,7 +45,7 @@
 <br>
 
 <div align="center">
- <img align="center" height="300em" src="https://www.pngrepo.com/png/331724/512/github-code-source.png"/>
+ <img align="center" height="250em" src="https://www.pngrepo.com/png/331724/512/github-code-source.png"/>
 </div>
 
 <br><br>
