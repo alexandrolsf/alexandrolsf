@@ -50,7 +50,7 @@
 
 <br><br>
 <div align="center">
-  <a href="https://instagram.com/alexandrolsf_" target="_blank"><img height="50" width="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" target="_blank"></a> 
+  <a href="https://instagram.com/alexandrolsf_" target="_blank"><img height="50" width="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexandro-lopes-192ba8219" target="_blank"><img height="50" width="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" target="_blank"></a>
  <a href = "mailto:alexandrolsf@gmail.com"><img height="50" width="50" hspace="10" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" target="_blank"></a>
 </div>
