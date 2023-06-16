@@ -8,7 +8,7 @@
  <img align="center"  height="30" width="30" hspace="5" src="https://cdn.worldvectorlogo.com/logos/code-school.svg">
 </h2>
 
-<h3 align="center">Olá!<br><br>Meu nome é Alexandro. Sou estudante de desenvolvimento web com conhecimento em HTML, CSS e JavaScript. Atualmente estou estudando programação com foco em back-end pela plataforma de cursos online Alura, buscando novos desafios e mais conhecimento na área de programação.
+<h3 align="center">Olá!<br><br>Eu sou Alexandro, estudante de desenvolvimento web. No momento, estou ampliando meus conhecimentos em programação back-end por meio da plataforma de cursos online Alura. Estou motivado a enfrentar novos desafios e aprofundar ainda mais minha compreensão na área de programação.
 </h3>
 
 <br>
