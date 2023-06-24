@@ -8,7 +8,7 @@
  <img align="center"  height="30" width="30" hspace="5" src="https://cdn.worldvectorlogo.com/logos/code-school.svg">
 </h2>
 
-<h3 align="center">Olá!<br><br>Eu sou Alexandro, estudante de desenvolvimento web. Ao longo da minha jornada, tenho adquirido habilidades sólidas em design responsivo, otimização de desempenho e acessibilidade, garantindo que meus projetos sejam acessíveis e funcionem perfeitamente em diferentes dispositivos e navegadores. Tenho um profundo entendimento da importância de uma boa usabilidade e da experiência do usuário, e busco constantemente aprimorar meus conhecimentos para criar interfaces fluidas e cativantes. No momento, estou ampliando meus conhecimentos em programação com foco no back-end através da plataforma de cursos online Alura. Estou motivado a enfrentar novos desafios e aprofundar ainda mais minha compreensão na área de programação.
+<h3 align="center">Olá!<br><br>Eu sou Alexandro, estudante de desenvolvimento web. Ao longo da minha jornada, tenho adquirido habilidades sólidas em design responsivo, otimização de desempenho e acessibilidade, garantindo que meus projetos sejam mais acessíveis. Tenho um profundo entendimento da importância de uma boa usabilidade e da experiência do usuário, e busco constantemente aprimorar meus conhecimentos para criar interfaces fluidas e cativantes. No momento, estou ampliando meus conhecimentos em programação com foco no back-end através da plataforma de cursos online Alura. Estou motivado a enfrentar novos desafios e aprofundar ainda mais minha compreensão na área de programação.
 </h3>
 
 <br>
