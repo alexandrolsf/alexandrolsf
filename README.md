@@ -31,39 +31,40 @@
     <tr>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="65" height="65" />
-        <br>HTML5
+        <br><b>HTML5</b>
       </td>
       <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="65" height="65" alt="css" />
-        <br>CSS
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="65" height="65" alt="css" />
+        <br><b>CSS</b>
       </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="65" height="65" />
-        <br>JavaScript
+        <br><b>JavaScript</b>
       </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"  width="65" height="65" />
-        <br>React
+        <br><b>React</b>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"  width="65" height="65" />
-        <br>Vue.js
+        <br><b>Vue.js</b>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="65" height="65" />
-        <br>Bootstrap
+        <br><b>Bootstrap</b>
       </td>
       <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="65" height="65" />
-        <br>Node.js
+        <br><b>Node.js</b>
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg"  width="65" height="65" />
-        <br>MySQL
+        <br><b>MySQL</b>
       </td>
     </tr>
   </table>
 </div>
+
 
 <br>
 
