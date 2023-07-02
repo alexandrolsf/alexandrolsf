@@ -1,13 +1,8 @@
 <h2 align="center"> 
- <img align="center"  height="30" width="30" hspace="5" src="https://cdn.worldvectorlogo.com/logos/code-school.svg">
- <img align="center"  height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
- <img align="center"  height="30" width="30" hspace="5" src="https://www.pngrepo.com/png/331724/512/github-code-source.png">
+ <img align="center"  height="50" width="50" hspace="5" src="https://www.pngrepo.com/png/331724/512/github-code-source.png">
  Bem-vindo ao meu GitHub!
- <img align="center"  height="30" width="30" hspace="5" src="https://www.pngrepo.com/png/331724/512/github-code-source.png">
- <img align="center"  height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
- <img align="center"  height="30" width="30" hspace="5" src="https://cdn.worldvectorlogo.com/logos/code-school.svg">
+ <img align="center"  height="50" width="50" hspace="5" src="https://www.pngrepo.com/png/331724/512/github-code-source.png">
 </h2>
-
 <h3 align="center">Olá!<br><br>Eu sou Alexandro, estudante de desenvolvimento web. Ao longo da minha jornada, tenho adquirido habilidades sólidas em design responsivo, otimização de desempenho e acessibilidade, garantindo projetos mais acessíveis. Tenho um profundo entendimento da importância de uma boa usabilidade e da experiência do usuário, e busco constantemente aprimorar meus conhecimentos para criar interfaces fluidas e cativantes. No momento, estou ampliando meus conhecimentos em programação com foco no back-end através da plataforma de cursos online Alura. Estou motivado a enfrentar novos desafios e aprofundar ainda mais minha compreensão na área de programação.
 </h3>
 
@@ -31,13 +26,14 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center"  height="50" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="50" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="50" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center"  height="50" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="50" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="50" width="50" hspace="5" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg">
   <img align="center"  height="50" width="50" hspace="5" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
   <img align="center"  height="50" width="50" hspace="5" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center"  height="50" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center"  height="50" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center"  height="60" width="60" hspace="5" src="https://camo.githubusercontent.com/b3578157355b1ac74d38d0f89d1022095ba7f7a988db091cef0fa4a62685e87e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667">
 </div>
 
 ##
