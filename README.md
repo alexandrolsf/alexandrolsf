@@ -25,18 +25,45 @@
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47x2t567n5qnqcj4s1hndj1zalzz1og00uex1lbnur&rid=giphy.gif&ct=g" />
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center"  height="50" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  height="50" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center"  height="50" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="50" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center"  height="50" width="50" hspace="5" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg">
-  <img align="center"  height="50" width="50" hspace="5" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
-  <img align="center"  height="50" width="50" hspace="5" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center"  height="60" width="60" hspace="5" src="https://camo.githubusercontent.com/b3578157355b1ac74d38d0f89d1022095ba7f7a988db091cef0fa4a62685e87e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667">
+<br>
+<div style="display: flex; align-items: flex-start; align: center">
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="65" height="65" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="65" height="65" alt="css" />
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"  width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"  width="65" height="65" />
+        <br>Vue.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="65" height="65" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="65" height="65" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg"  width="65" height="65" />
+        <br>MySQL
+      </td>
+    </tr>
+  </table>
 </div>
-
-##
 
 <br>
 
