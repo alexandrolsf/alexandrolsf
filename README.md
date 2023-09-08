@@ -3,7 +3,7 @@
  Bem-vindo ao meu GitHub!
  <img align="center"  height="50" width="50" hspace="5" src="https://www.pngrepo.com/png/331724/512/github-code-source.png">
 </h2>
-<h3 align="center">Olá!<br><br>Eu sou Alexandro, estudante de desenvolvimento web. Ao longo da minha jornada, tenho adquirido habilidades sólidas em design responsivo, otimização de desempenho e acessibilidade, garantindo projetos mais acessíveis. Tenho conhecimento da importância de uma boa usabilidade e da experiência do usuário, buscando constantemente aprimorar meus conhecimentos para criar interfaces fluidas e cativantes. No momento, estou ampliando meus conhecimentos em programação com foco no back-end através da plataforma de cursos online Alura. Estou motivado a enfrentar novos desafios e aprofundar ainda mais minha compreensão na área de programação.
+<h3 align="center">Olá!<br><br>Eu sou Alexandro, estudante de desenvolvimento web. Ao longo da minha jornada, tenho adquirido habilidades sólidas em design responsivo, otimização de desempenho e acessibilidade, garantindo projetos mais acessíveis. Tenho conhecimento da importância de uma boa usabilidade e da experiência do usuário, buscando constantemente aprimorar meus conhecimentos para criar interfaces fluidas e envolventes. No momento, estou ampliando meus conhecimentos em programação com foco no backend através da plataforma de cursos online Alura. Estou motivado a enfrentar novos desafios e aprofundar ainda mais meu conhecimento na área de programação.
 </h3>
 
 <br>
