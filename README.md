@@ -46,7 +46,7 @@
         <br><b>React</b>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"  width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"  width="65" height="65" />
         <br><b>Vue.js</b>
       </td>
       <td align="center" width="96">
